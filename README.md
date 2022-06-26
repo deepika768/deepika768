@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @deepika768
+- 👀 I’m interested in data science domain...
+- 🌱 I’m currently learning data analytics and python programming ...
+- 📫 How to reach me sahudeepika471@gmail.com...
+
+<!---
+deepika768/deepika768 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
